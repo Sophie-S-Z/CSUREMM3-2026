@@ -1,0 +1,29 @@
+# Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Data — never commit real/raw data to this public repo
+data/
+*.csv
+*.nii
+*.nii.gz
+*.mat
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env.local
