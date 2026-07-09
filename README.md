@@ -1,6 +1,6 @@
 # CSUREMM3-2026 — Public Summary
 
-> This repository is a curated, public-facing companion to a Columbia CSUREMM 2026 research project. It exists to give readers an accurate overview of the motivation, approach, and high-level results — **not** a full reproduction package. See [Repository Scope](#repository-scope) for what is and isn't included, and why.
+> This repository is a curated, public-facing companion to a Columbia CSUREMM 2026 research project. It exists to give readers an accurate overview of the motivation, approach, and high-level results. See [Repository Scope](#repository-scope) for what is and isn't included, and why.
 
 ## Status
 
@@ -42,7 +42,7 @@ This is a private, ongoing research collaboration; the working repository and da
 
 ## Team
 
-TODO: names and affiliations.
+Sophie Zhang (Columbia College '29), Rafia Hossain (Barnard College '28), & Arda Alisan (General Studies '28) 
 
 Part of Columbia CSUREMM 2026 (summer mathematical modeling research program).
 
@@ -57,4 +57,4 @@ If you reference this work, please cite it — see [`CITATION.cff`](CITATION.cff
 
 ## Contact
 
-TODO: contact email for questions about this project.
+Contact sz3438@columbia.edu, rh3272@barnard.edu, & aa5975@columbia.edu for questions about this project.
