@@ -1,6 +1,6 @@
 # Results — Summary
 
-This page walks through the project's headline findings for a reader who won't read the full paper. For how these results were produced, see [Methods — High-Level Overview](methods-overview.md); for the underlying data sources, see [Data Sources & Availability](data-sources-availability.md).
+This page walks through a summary of the project's headline findings. For how these results were produced, see [Methods — High-Level Overview](methods-overview.md); for the underlying data sources, see [Data Sources & Availability](data-sources-availability.md).
 
 ## 1. Tau pathology targets dynamically fragile regions, not just well-connected ones
 
