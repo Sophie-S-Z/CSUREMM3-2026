@@ -12,7 +12,7 @@ Alzheimer's disease tau pathology doesn't spread randomly — it reliably starts
 
 ## Research Questions
 
-RQ1: Network Control Theory vs. Tau Pathology - To what extent does regional minimum control energy predict spatial tau accumulation in early Alzheimer's disease, even after controlling for structural hub degree?  
+RQ1: Network Control Theory vs. Tau Pathology - To what extent does regional minimum control energy predict spatial tau accumulation in early Alzheimer's disease, even after controlling for structural hub degree? \
 RQ2: Targeted Protection - How does protecting dynamically-informed ``critical lever'' regions and hard-to-tip regions in a tau-propagation simulation compare with protecting high-degree hubs, highest-baseline-tau regions, or random regions in mitigating whole-brain tau accumulation?
 
 ## Approach (high level)
