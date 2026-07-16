@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "What Can You Remember? Rescuing the Brain with Neural Mass Dynamics"
+type: dataset
+authors:
+  - family-names: "Zhang"
+    given-names: "Sophie"
+    affiliation: "Columbia University in the City of New York"
+  - family-names: "Hossain"
+    given-names: "Rafia"
+    affiliation: "Barnard College, Columbia University"
+  - family-names: "Alisan"
+    given-names: "Arda"
+    affiliation: "Columbia University in the City of New York"
+date-released: "2026"
+url: "https://github.com/Sophie-S-Z/CSUREMM3-2026"
+abstract: >
+  There is no mathematical basis for why Alzheimer's disease tau pathology
+  consistently targets certain brain regions, such as the entorhinal cortex,
+  before spreading elsewhere. This project ranks brain regions by their
+  dynamical resistance to destabilization rather than by structural
+  connectivity alone, using network control theory applied to a
+  criticality-linearized Wilson-Cowan neural mass model built on 83-region
+  HCP structural connectomes. Across 351 ADNI subjects, this "critical lever"
+  ranking predicts where tau pathology accumulates (the hardest-to-tip
+  regions), the opposite of where amyloid accumulates (easy-to-tip hub
+  regions), even after controlling for hub degree. We then use this ranking,
+  alongside structural and empirical alternatives, to inform a personalized
+  Fisher-Kolmogorov reaction-diffusion model of tau spread, calibrated to
+  longitudinal tau-PET data from 43 subjects, and compare five region-targeted
+  protection strategies in simulation. Protecting regions with the highest
+  existing tau burden reduced simulated whole-brain tau accumulation more
+  than protecting dynamically fragile or highly connected regions. This
+  repository provides a computational framework for identifying and
+  evaluating candidate brain regions for future anti-tau intervention
+  targets.
