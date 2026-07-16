@@ -1,8 +1,6 @@
 # Methods — High-Level Overview
 
-This page intentionally stops at a conceptual level. It should let a reader understand what was done and why, without providing a reproduction recipe (exact hyperparameters, calibration procedures, or full pipeline code). Implementation specifics, tuned parameters, and full derivations are kept out of this repository; see [Data Sources & Availability](data-sources-availability.md) for why, and check back here for a link to the published paper/preprint once available.
-
-The project has four stages, organized into two broad modeling "pillars." The first two stages build and validate a map of brain regions ranked by dynamical fragility. The last two stages use that map to simulate and compare strategies for protecting the brain from tau spread.
+The project has four stages, organized into two broad modeling "pillars." The first two stages build and validate a map of brain regions ranked by dynamical fragility, while the last two stages use that map to simulate and compare strategies for protecting the brain from tau spread.
 
 ## Stage 1 — Modeling Regional Brain Dynamics
 
