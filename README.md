@@ -1,14 +1,10 @@
-# CSUREMM3-2026 — Public Summary
+# CSUREMM3-2026 Summary
 
 > This is a curated, public-facing repository for a CSUREMM 2026 research project. It exists to give readers an accurate overview of the motivation, approach, and high-level results. See [Repository Scope](#repository-scope) for what is and isn't included, and why.
 
-## Status
-
-This repo is currently being updated and items will be added incrementally as the team finalizes what's ready to publicly share.
-
 ## Overview
 
-Alzheimer's disease tau pathology doesn't spread randomly — it reliably starts in specific brain regions, like the entorhinal cortex, years before symptoms appear, but there's no mathematical explanation for why those regions are hit first. This project asks whether the answer lies not in how connected a region is, but in how easily its local activity can be pushed out of a stable state. We built a computational framework that ranks brain regions by this dynamical fragility, tested whether that ranking predicts where tau pathology actually accumulates in real patient data, and used it to simulate which regions would be most valuable to protect with a future anti-tau therapy.
+Alzheimer's disease tau pathology doesn't spread randomly; in fact, years before symptoms even appear, it starts in specific brain regions such as the entorhinal cortex and hippocampus, following a prion-like spreading pattern in a systematic chain reaction along established neural networks. However, there's no mathematical explanation for why certain regions of the brain are affected first. This project investigates whether the answer lies not just in how connected a region is (our current findings and consensus), but also in how easily its local activity can be pushed out of a stable state. We built a computational framework that ranks brain regions by this dynamical fragility, tested whether that ranking predicts where tau pathology actually accumulates in real patient data, and used it to simulate multiple approaches to tau-propagation throughout the connectome in order to determine which brain regions would be most valuable to protect with a future anti-tau therapy.
 
 ## Research Questions
 
